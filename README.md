@@ -7,11 +7,11 @@ Language Modelling of "Moby Dick" Corpus using NLTK Library
 
 2. .ipynb file contains the runnable code. Simply open the file in Anaconda and run the entire file.
 
-  a. To Download Ananconda follow the link  
-     ### https://www.anaconda.com/download/?lang=en
+    a. To Download Ananconda follow the link  
+     https://www.anaconda.com/download/?lang=en
      
-  b. To install NLTK simply run in your .ipynb notebook   
-     ### ! pip install NLTK 
+    b. To install NLTK simply run in your .ipynb notebook   
+     ! pip install NLTK 
 
 3. Results.csv contains the language model probabilities achieved through Laplace smoothing for top 25 unigrams of the corpus.
 
