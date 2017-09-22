@@ -6,8 +6,10 @@ Language Modelling of "Moby Dick" Corpus using NLTK Library
 1. Readable Code and granular results can be found in PDF File.
 
 2. .ipynb file contains the runnable code. Simply open the file in Anaconda and run the entire file.
-  a. To Download Ananconda follow the link  
+
+  a. To Download Ananconda follow the link  
      ### https://www.anaconda.com/download/?lang=en
+     
   b. To install NLTK simply run in your .ipynb notebook   
      ### ! pip install NLTK 
 
